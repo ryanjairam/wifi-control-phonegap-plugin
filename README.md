@@ -13,6 +13,7 @@ A plugin for turning Wifi on / off in Phonegap apps targeting Android devices.
 ```
 
 2. Examples  
+
 __Turn Wifi off__
 ```javascript
  window.WifiControlPlugin.setWifi('off', function(){ 
