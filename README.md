@@ -7,12 +7,12 @@ A plugin for turning Wifi on / off in Phonegap apps targeting Android devices.
 `$ phonegap plugin add https://github.com/RyanJairam/wifi-control-phonegap-plugin`
 
 ## 3. Usage
-1. Add the CHANGE_WIFI_STATE permission to /platforms/Android/AndroidManifest.xml  
+__Add the CHANGE_WIFI_STATE permission to /platforms/Android/AndroidManifest.xml__  
 ```xml
 <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
 ```
 
-2. Examples  
+__Examples__
 
 __Turn Wifi off__
 ```javascript
