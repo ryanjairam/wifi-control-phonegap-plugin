@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-wificontrol",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-wificontrol",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "A plugin for turning Wifi on / off in Phonegap apps targeting Android devices.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanJairam/wifi-control-phonegap-plugin.git"
+  },
+  "keywords": [
+    "wifi", "control", "plugin", "phonegap", "cordova", "cordova-android"
+  ],
+  "author": "Ryan jairam (https://github.com/RyanJairam)",
+  "license":"MIT",
+  "homepage": "https://github.com/RyanJairam/wifi-control-phonegap-plugin#readme"
+}
