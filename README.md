@@ -12,8 +12,6 @@ __Add the CHANGE_WIFI_STATE permission to /platforms/Android/AndroidManifest.xml
 <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
 ```
 
-__Examples__
-
 __Turn Wifi off__
 ```javascript
  window.WifiControlPlugin.setWifi('off', function(){ 
